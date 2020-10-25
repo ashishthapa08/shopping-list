@@ -1,1 +1,2 @@
-# shopping-list
+# shoppingList
+simple shoppinglist with plain javascript
